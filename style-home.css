@@ -1,0 +1,129 @@
+header {
+    background-color: #BBBBBB;
+    padding: 20px;
+}
+
+.caja {
+    width: 940px;
+    position: relative;
+    margin: 0 auto;
+}
+
+nav {
+    position: absolute;
+    top: 110px;
+    right: 0%;
+}
+
+.navegacion li {
+    display: inline;
+    margin: 0 0 0 15px;
+}
+
+nav a {
+    text-transform: uppercase;
+    color: black;
+    font-size: 22px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+nav a:hover {
+    color: #c78c19;
+    text-decoration: underline;
+}
+
+#banner {
+    width: 100%;
+    margin: 20px 0 20px 0;
+}
+
+
+.principal {
+    background-color: #BBBBBB;
+    padding: 20px;
+}
+
+
+.titulo-centralizado {
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 30px;
+    font-weight: bold;
+    margin: 0 0 20px 0;
+}
+
+p {
+    text-align: center;
+    font-size: 18px;
+    padding-bottom: 20px;
+}
+
+em strong {
+    color:brown;
+}
+
+#mision {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.destacados {
+    background-color: #ffffff;
+    padding: 30px;
+    display: inline-block;
+}
+
+.lista-destacados{
+    display: inline-block;
+    margin-left: 40px;
+}
+
+.titulo-destacados{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+
+.items {
+    font-style: italic;
+    font-size: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+ul {
+    display: inline;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+section{
+    display: inline;
+}
+
+
+.imagenDiferenciales {
+    min-width: 30%;
+    max-width: 50%;
+    margin-top: 10px;
+    margin-left: 20px;
+    float: right;
+}
+
+footer{
+    text-align: center;
+    padding: 40px;
+    background: url(Productos/imagenes/bg.jpg);
+}
+
+.copyright{
+    font-size: 13px;
+    color: #FFFFFF;
+    margin: 20px;
+}
